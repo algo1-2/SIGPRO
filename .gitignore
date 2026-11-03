@@ -1,0 +1,6 @@
+sigpro.db
+exportaciones/
+__pycache__/
+*.pyc
+venv/
+.env
